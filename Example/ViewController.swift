@@ -18,7 +18,6 @@ class ViewController: UIViewController {
         
         var name = "Jessica"
         
-        name += "Cavazos"
     }
 
     override func didReceiveMemoryWarning() {
